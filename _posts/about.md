@@ -1,6 +1,6 @@
 ---
 layout: page
-title: First post!
+title: About the project
 image: /img/hello_world.jpeg
 ---
 
