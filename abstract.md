@@ -13,7 +13,7 @@ This project demonstrates an attack where the smartphone screen is recorded on c
 
 The vulnerability exploited in this attack is that when a MHL/HDMI supported smartphone (Android/iOS) is connected to a projector through a HDMI/VGA cable, there are no permission requests or authentication steps required for connectivity. The projector automatically screens the phone on connection. 
 
-This vulnerability was spotted and exploited in a paper called **“Charging Me and I Know Your Secrets! Towards Juice Filming Attacks on Smartphones” \[[1](references.md)\] In Proceedings of the 1st ACM Workshop on Cyber-Physical System Security, pp. 89-98. ACM, 2015. This project is a demonstration of the attack explained in the aforementioned paper, which is then extended to extract the unlock passwords from the video recordings.
+This vulnerability was spotted and exploited in a paper called **“Charging Me and I Know Your Secrets! Towards Juice Filming Attacks on Smartphones” \[[1](/references.md)\] In Proceedings of the 1st ACM Workshop on Cyber-Physical System Security, pp. 89-98. ACM, 2015. This project is a demonstration of the attack explained in the aforementioned paper, which is then extended to extract the unlock passwords from the video recordings.
 
 This project aims at creating an awareness about the risk of charging phones in public charging booths which could be tampered to record your phone.
 
