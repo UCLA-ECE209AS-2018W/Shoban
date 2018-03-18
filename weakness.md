@@ -4,7 +4,9 @@ title: Limitations
 description: Limitations
 ---
 
+
 # Limitations of this attack:
+
 
 * Following are the limitations with respect to the feasibility and accuracy of the demonstrated attack.
    + Some of the Smart phone manufacturers such as Lenovo, MI, Google Nexus and other Chinese brands do not support MHL or HDMI facility as they provide wireless screen mirroring facility. Since they provide wireless screen sharing they do not offer hardwired cable based screen sharing, which restricts the attack from being possible with the phones from above manufacturers. [The list of MHL compatible phone brands and models can be found here.](http://www.mhltech.org/devices.aspx) 
