@@ -6,6 +6,7 @@ description: Strengths of this attack.
 
 # Strengths of this attack:
 
+
 -	This attack is simple to implement.
 -	No need to install any apps on phone.
 -	No need of any permissions.
