@@ -23,7 +23,7 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  About :
+  About:
     - Abstract: "abstract"
     - Components: "components"
     - Setup: "setup"
