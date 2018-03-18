@@ -5,7 +5,9 @@ description: References
 ---
 
 
+
 # References
+
 
 1.	Meng, Weizhi, Wang Hao Lee, S. R. Murali, and S. P. T. Krishnan. "Charging me and i know your secrets!: towards juice filming attacks on smartphones." In Proceedings of the 1st ACM Workshop on Cyber-Physical System Security, pp. 89-98. ACM, 2015.
 2.	Lin, Chia-Chi, Hongyang Li, Xiao-yong Zhou, and XiaoFeng Wang. "Screenmilker: How to Milk Your Android Screen for Secrets." In NDSS. 2014
