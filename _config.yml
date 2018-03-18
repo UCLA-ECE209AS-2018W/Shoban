@@ -32,7 +32,7 @@ navbar-links:
     - Algorithm: "algorithm"
     - Challenges: "challenges"
   Results: "results"
-  Analysis and Discussion:
+  Analysis & Discussion:
     - Analysis: "analysis"
     - Strengths: "strengths"
     - Limtations: "weakness"
