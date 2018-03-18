@@ -23,11 +23,10 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "home"
   About the Project:
     - Abstract: "abstract"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - Components: "Components"
+    - Setup: "Setup"
   Algorithm: "http://deanattali.com"
   Analysis and Discussion:
   References: "references"
