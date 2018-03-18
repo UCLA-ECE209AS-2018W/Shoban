@@ -7,7 +7,7 @@ description: Project objective and Goals
 
 # Abstract
 
-Usage of Smartphones has become highly common in recent days, so much so that it has become a part of the lifestyle for many, without which there day would be miserable. With the increase use of smartphones the challenges to maintain the privacy of Smart phone users has increased. A number of malware attacks such as [Soundcomber\[3\]](/references/), [Screenmilker\[2\]](/references/), have been spread. These attacks are either based on physical access or through malwares injected into the device through the network.
+Usage of Smartphones has become highly common in recent days, so much so that it has become a part of the lifestyle for many, without which there day would be miserable. With the increase use of smartphones the challenges to maintain the privacy of Smart phone users has increased. A number of malware attacks such as [Soundcomber\[3\]](/Shoban/references/), [Screenmilker\[2\]](/Shoban/references/), have been spread. These attacks are either based on physical access or through malwares injected into the device through the network.
 
 This project demonstrates an attack where the smartphone screen is recorded on connecting to a tampered unauthorized charger. The screen recording is further processed to obtain the unlock password of a Smartphone. The stealthiness of this attack depends on how invisible is this to the user. There exists a vulnerability in smart phones which support screen sharing through cables which can be utilized to make this attack invisible. 
 
