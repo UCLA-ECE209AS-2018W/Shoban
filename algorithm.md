@@ -6,7 +6,7 @@ description: Algorithm
 
 
 
-# 1. auro_record.sh
+# 1. auto_record.sh
 
 This script is used to continuously check if a phone is connected to the VGA2USB video grabber and record the video.
 In this script `ffmpeg` package is used to record the video. This script identifies if a phone is connected to the video grabber from the standard output of the `ffmpeg`.
