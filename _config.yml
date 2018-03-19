@@ -29,7 +29,7 @@ navbar-links:
     - Setup: "setup"
   Algorithm:
     - Methodology: "method"
-    - Algorithm: "algorithm"
+    - Pseudocode: "algorithm"
     - Challenges: "challenges"
   Results: "results"
   Analysis & Discussion:
