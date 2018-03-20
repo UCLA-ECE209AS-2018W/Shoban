@@ -26,7 +26,8 @@ There are a couple of techniques to recognize the characters pressed, some of th
   -	 **Optical Character recognition**
   
 1. Optical character recognition can be implemented with the package named pytesseract and this technique is a generalised technique which can recognise the key presses of any keyboard. However when I tried implementing this method its accuracy was really poor and it threw garbage values. \[[8](/references.md)\]
-2. For instance, I had an image with the character “s” being pressed and the output of pytesseract was something like this - **Add a picture**
+2. For instance, I had an image with the character “s” being pressed and the output of pytesseract was something like the image below:
+![pytesseract_output](/img/ocr_output.png)
 3. I implemented the logic for password extraction with structural similarity \[[7](/references.md)\] as well and found it had an accuracy better than the optical character recognition, however this technique will work only with the trained keyboard reference images and cannot be extended to the same keyboard of another phone or other keyboards.
 4. Mean squared error is a poor measure of comparing two images, it only gives the perceived errors and not a direct measure of their similarity.
 5. The technique used in this project to recognize the characters pressed on the keyboard is **Template Matching**. I used this techniques since it had really good accuracy in prediction and it can be applied to any standard qwerty keyboard. \[[4](/references.md)\]
