@@ -10,4 +10,4 @@ description: Results
 The password used in this example is **sho123**.
 ![password.txt](/img/password.JPG)
 
-![Demo](/img/Result_Demo-Password.ogv)
+[Demo](https://github.com/UCLA-ECE209AS-2018W/Shoban/tree/master/Results)
